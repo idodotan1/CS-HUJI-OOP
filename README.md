@@ -8,4 +8,4 @@ Project 4 – A simplified Terraria-style game, also developed using DanoGameLab
 Project 5 – A simplified Java syntax analyzer, which parses and validates code written in a restricted version of Java according to predefined rules.
 Additional Notes:
 As the course progressed, we learned more about OOP principles and design patterns. Consequently, in the earlier projects, we weren’t yet familiar with certain patterns that could have improved our implementations.
-
+I also want to credit my partner Yonatan Scheffer, that besides Project 1 we worked on all the other projects together.
